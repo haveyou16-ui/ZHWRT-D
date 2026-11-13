@@ -23,6 +23,7 @@ on:
         type: string
       WRT_WORD_5G:
         required: true
+        type: string
       WRT_IP:
         required: true
         type: string
