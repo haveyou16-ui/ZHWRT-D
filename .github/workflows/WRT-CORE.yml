@@ -18,7 +18,11 @@ on:
         type: string
       WRT_WORD:
         required: true
+      WRT_SSID_5G:
+        required: true
         type: string
+      WRT_WORD_5G:
+        required: true
       WRT_IP:
         required: true
         type: string
