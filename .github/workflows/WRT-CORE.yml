@@ -19,12 +19,6 @@ on:
       WRT_WORD:
         required: true
         type: string
-      WRT_SSID_5G:
-        required: true
-        type: string
-      WRT_WORD_5G:
-        required: true
-        type: string
       WRT_IP:
         required: true
         type: string
